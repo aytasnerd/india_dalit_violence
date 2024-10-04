@@ -1,24 +1,42 @@
-Name,RSS_Feed,Works?,Language,Twitter_URL,FB_URL
-Google News RSS Feed,https://rss.app/rss-feed/google-news-rss-feed,,,,
-Indian Express Bengali,https://bengali.indianexpress.com/rss,1,Bengali,,
-Indian Express Malayalam,https://malayalam.indianexpress.com/rss,1,Malayalam,,
-Indian Express Tamil,https://tamil.indianexpress.com/rss,1,Tamil,,
-The Hindu,,,,,
-The Hindu,https://www.thehindu.com/news/national/feeder/default.rss,,English ,https://x.com/the_hindu,https://www.facebook.com/thehindu
-Dainik Bhaskar,https://www.bhaskar.com/rss,,,https://x.com/DainikBhaskar,https://www.facebook.com/dainikbhaskar
-Dalit Times,,,,https://x.com/DalitTime,https://www.facebook.com/timesdalit
-Times of India,https://timesofindia.indiatimes.com/rss.cms,,,https://x.com/timesofindia,https://www.facebook.com/TimesofIndia
-Dalit Archive,,,,https://x.com/dalitarchive,
-Ambedkarite India,,,,https://x.com/ambedkariteIND,https://www.facebook.com/ambedkariteIND
-NDTV,https://www.ndtv.com/rss,,,https://x.com/ndtv,https://www.facebook.com/ndtv
-LiveMint,https://www.livemint.com/rss,,,https://x.com/livemint,https://www.facebook.com/mint.live
-Deccan Herald,,,,https://x.com/DeccanHerald,https://www.facebook.com/deccanherald
-India News Network,https://www.indianewsnetwork.com/rss-feeds/,,,,
-The Statesman,,,,https://x.com/TheStatesmanLtd,https://www.facebook.com/thestatesman1875
-The Print,,,,https://x.com/ThePrintIndia,https://www.facebook.com/theprintindia
-Hindustan Times,https://tech.hindustantimes.com/rss,,,https://x.com/htTweets,https://www.facebook.com/hindustantimes
-The Wire,,,,https://x.com/thewire_in,https://www.facebook.com/thewire.in
-News Laundry,,,,https://x.com/newslaundry,https://www.facebook.com/newslaundry
-India Today,https://www.indiatoday.in/rss,,,https://x.com/IndiaToday,https://www.facebook.com/IndiaToday
-Newsclick,https://www.newsclick.in/rss-feed,,,https://x.com/newsclickin,https://www.facebook.com/newsclickonline
-Scroll.in,,,,https://x.com/scroll_in,https://www.facebook.com/scroll.in
+Name,Section,RSS_Feed,Works?,Language,Twitter_URL,FB_URL
+Google News,Dalit ,https://rss.app/feeds/P8K5BBCE7t1JWZQ3.xml,,,,
+Google News,Dalit Violence,https://rss.app/feeds/B2SZJnVStF6ULAjJ.xml,,,,
+Indian Express Bengali,,https://bengali.indianexpress.com/rss,1,Bengali,,
+Indian Express Malayalam,,https://malayalam.indianexpress.com/rss,1,Malayalam,,
+Indian Express Tamil,,https://tamil.indianexpress.com/rss,1,Tamil,,
+The Hindu,States,https://www.thehindu.com/news/states/feeder/default.rss,,,,
+The Hindu,Cities,https://www.thehindu.com/news/cities/feeder/default.rss,,,,
+The Hindu,National,https://www.thehindu.com/news/national/feeder/default.rss,,English ,https://x.com/the_hindu,https://www.facebook.com/thehindu
+Dainik Bhaskar,DB Original,https://www.bhaskar.com/rss-v1--category-4587.xml,,,,
+Dainik Bhaskar,Rajasthan,https://www.bhaskar.com/rss-v1--category-1740.xml,,,,
+Dainik Bhaskar,Madhya Pradesh,https://www.bhaskar.com/rss-v1--category-1739.xml,,,,
+Dainik Bhaskar,Uttar Pradesh,https://www.bhaskar.com/rss-v1--category-2052.xml,,,,
+Dainik Bhaskar,Bihar,https://www.bhaskar.com/rss-v1--category-3679.xml,,,,
+Dainik Bhaskar,Chhattisgarh,https://www.bhaskar.com/rss-v1--category-1741.xml,,,,
+Dainik Bhaskar,Haryana,https://www.bhaskar.com/rss-v1--category-1742.xml,,,,
+Dainik Bhaskar,New Delhi,https://www.bhaskar.com/rss-v1--category-7140.xml,,,,
+Dainik Bhaskar,Maharashtra,https://www.bhaskar.com/rss-v1--category-2318.xml,,,,
+Dainik Bhaskar,Jharkhand,https://www.bhaskar.com/rss-v1--category-3682.xml,,,,
+Dainik Bhaskar,Punjab,https://www.bhaskar.com/rss-v1--category-1743.xml,,,,
+Dainik Bhaskar,Gujarat,https://www.bhaskar.com/rss-v1--category-2314.xml,,,,
+Dainik Bhaskar,Chandigarh,https://www.bhaskar.com/rss-v1--category-11649.xml,,,,
+Dainik Bhaskar,Himachal,https://www.bhaskar.com/rss-v1--category-12084.xml,,,,
+Dainik Bhaskar,National,https://www.bhaskar.com/rss-v1--category-1061.xml,,,,
+Dainik Bhaskar,Women,https://www.bhaskar.com/rss-v1--category-1532.xml,,,,
+Times of India,Top Stories,https://timesofindia.indiatimes.com/rssfeedstopstories.cms,,,,
+Times of India,Most Recent Stories,https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms,,,,
+Times of India,India,https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms,,,,
+Times of India,Mumbai,https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms,,,,
+Times of India,Delhi,https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms,,,,
+Times of India,Bangalore,https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms,,,,
+Times of India,Hyderabad,https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms,,,,
+Times of India,Chennai,https://timesofindia.indiatimes.com/rssfeeds/2950623.cms,,,,
+Times of India,Ahmedabad,https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms,,,,
+Times of India,Allahabad,https://timesofindia.indiatimes.com/rssfeeds/3947060.cms,,,,
+Times of India,Bhubaneswar,https://timesofindia.indiatimes.com/rssfeeds/4118235.cms,,,,
+Times of India,Coimbatore,https://timesofindia.indiatimes.com/rssfeeds/7503091.cms,,,,
+Times of India,Gurgaon,https://timesofindia.indiatimes.com/rssfeeds/6547154.cms,,,,
+Times of India,Goa,https://timesofindia.indiatimes.com/rssfeeds/3012535.cms,,,,
+Times of India,Chandigarh,https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms,,,,
+Times of India,Lucknow,https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms,,,,
+Times of India,Jaipur,https://timesofindia.indiatimes.com/rssfeeds/3942544.cms,,,,
