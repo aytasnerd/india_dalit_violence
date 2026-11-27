@@ -1,0 +1,65 @@
+# Keywords that mark an article as possibly relevant.
+#
+# One term per line. Lines starting with # are comments.
+# Matching is case-insensitive.
+# - Terms in Latin script match at the start of a word, so "caste" matches
+#   "castes" and "casteist" but not "broadcaster".
+# - Terms in Indian scripts match anywhere in the text.
+#
+# The goal is to catch as much as possible; a person reviews matches later.
+# The non-English lists were drafted without a native speaker and should be
+# checked by one. Avoid short roots that are also common words (for example
+# Tamil "சாதி" also appears inside "சாதித்தார்", "achieved").
+
+# English
+dalit
+caste
+adivasi
+scheduled caste
+scheduled tribe
+SC/ST
+SC-ST
+atrocities act
+atrocity act
+prevention of atrocities
+untouchab
+manual scaveng
+honour killing
+honor killing
+
+# Hindi
+दलित
+जाति
+जातीय
+जातिगत
+अनुसूचित जाति
+अनुसूचित जनजाति
+आदिवासी
+छुआछूत
+एससी-एसटी
+एससी/एसटी
+ऑनर किलिंग
+
+# Tamil
+தலித்
+சாதிய
+சாதிவெறி
+சாதி ஆணவ
+ஆணவக் கொலை
+தீண்டாமை
+ஆதிதிராவிடர்
+பட்டியலின
+
+# Malayalam
+ദളിത്
+ജാതി
+ആദിവാസി
+പട്ടികജാതി
+പട്ടികവർഗ
+
+# Bengali
+দলিত
+জাতপাত
+জাতিগত
+তফসিলি
+আদিবাসী

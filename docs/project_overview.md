@@ -29,15 +29,7 @@ This is an attempt by few volunteers to compile data on the violence faced by th
   - `data_sources.md`: Information on data sources used
   - `project_overview.md`: Overview of the project
 
-- **src/**: Source code for data collection and processing
-
-- **tests/**: Scripts for testing code functionality
-
-- **data/**:
-  - `raw/`: Unprocessed data files
-  - `processed/`: Cleaned data ready for presentation
-
-- **notebooks/**: Jupyter notebooks for any exploratory analysis (if needed)
+See the Layout section of the [README](../README.md).
 
 ## Future Work
 - Expand to include more regional news sources.

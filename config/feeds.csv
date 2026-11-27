@@ -1,0 +1,42 @@
+source,section,language,url
+Google News,Search: dalit,en,https://news.google.com/rss/search?q=dalit&hl=en-IN&gl=IN&ceid=IN:en
+Google News,Search: caste violence,en,https://news.google.com/rss/search?q=%22caste%22+(violence+OR+attack+OR+assault+OR+murder+OR+atrocity)&hl=en-IN&gl=IN&ceid=IN:en
+Google News,Search: दलित,hi,https://news.google.com/rss/search?q=%E0%A4%A6%E0%A4%B2%E0%A4%BF%E0%A4%A4&hl=hi&gl=IN&ceid=IN:hi
+Indian Express Bengali,All,bn,https://bengali.indianexpress.com/rss
+Indian Express Malayalam,All,ml,https://malayalam.indianexpress.com/rss
+Indian Express Tamil,All,ta,https://tamil.indianexpress.com/rss
+The Hindu,States,en,https://www.thehindu.com/news/states/feeder/default.rss
+The Hindu,Cities,en,https://www.thehindu.com/news/cities/feeder/default.rss
+The Hindu,National,en,https://www.thehindu.com/news/national/feeder/default.rss
+Dainik Bhaskar,DB Original,hi,https://www.bhaskar.com/rss-v1--category-4587.xml
+Dainik Bhaskar,Rajasthan,hi,https://www.bhaskar.com/rss-v1--category-1740.xml
+Dainik Bhaskar,Madhya Pradesh,hi,https://www.bhaskar.com/rss-v1--category-1739.xml
+Dainik Bhaskar,Uttar Pradesh,hi,https://www.bhaskar.com/rss-v1--category-2052.xml
+Dainik Bhaskar,Bihar,hi,https://www.bhaskar.com/rss-v1--category-3679.xml
+Dainik Bhaskar,Chhattisgarh,hi,https://www.bhaskar.com/rss-v1--category-1741.xml
+Dainik Bhaskar,Haryana,hi,https://www.bhaskar.com/rss-v1--category-1742.xml
+Dainik Bhaskar,New Delhi,hi,https://www.bhaskar.com/rss-v1--category-7140.xml
+Dainik Bhaskar,Maharashtra,hi,https://www.bhaskar.com/rss-v1--category-2318.xml
+Dainik Bhaskar,Jharkhand,hi,https://www.bhaskar.com/rss-v1--category-3682.xml
+Dainik Bhaskar,Punjab,hi,https://www.bhaskar.com/rss-v1--category-1743.xml
+Dainik Bhaskar,Gujarat,hi,https://www.bhaskar.com/rss-v1--category-2314.xml
+Dainik Bhaskar,Chandigarh,hi,https://www.bhaskar.com/rss-v1--category-11649.xml
+Dainik Bhaskar,Himachal,hi,https://www.bhaskar.com/rss-v1--category-12084.xml
+Dainik Bhaskar,National,hi,https://www.bhaskar.com/rss-v1--category-1061.xml
+Dainik Bhaskar,Women,hi,https://www.bhaskar.com/rss-v1--category-1532.xml
+Times of India,Top Stories,en,https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+Times of India,India,en,https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
+Times of India,Mumbai,en,https://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms
+Times of India,Delhi,en,https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms
+Times of India,Bangalore,en,https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms
+Times of India,Hyderabad,en,https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms
+Times of India,Chennai,en,https://timesofindia.indiatimes.com/rssfeeds/2950623.cms
+Times of India,Ahmedabad,en,https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms
+Times of India,Allahabad,en,https://timesofindia.indiatimes.com/rssfeeds/3947060.cms
+Times of India,Bhubaneswar,en,https://timesofindia.indiatimes.com/rssfeeds/4118235.cms
+Times of India,Coimbatore,en,https://timesofindia.indiatimes.com/rssfeeds/7503091.cms
+Times of India,Gurgaon,en,https://timesofindia.indiatimes.com/rssfeeds/6547154.cms
+Times of India,Goa,en,https://timesofindia.indiatimes.com/rssfeeds/3012535.cms
+Times of India,Chandigarh,en,https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms
+Times of India,Lucknow,en,https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms
+Times of India,Jaipur,en,https://timesofindia.indiatimes.com/rssfeeds/3942544.cms
