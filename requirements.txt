@@ -1,6 +1,4 @@
-numpy
-pandas
-requests
-beautifulsoup4
-tweepy
-feedparser
+beautifulsoup4>=4.12
+feedparser>=6.0
+requests>=2.31
+pytest>=8

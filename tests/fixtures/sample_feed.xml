@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample News - National</title>
+    <link>https://news.example.com/national</link>
+    <description>Test feed</description>
+    <item>
+      <title>Dalit man assaulted in Banda village; three arrested</title>
+      <link>https://news.example.com/story-1?utm_source=rss&amp;utm_medium=feed</link>
+      <description><![CDATA[<p><img src="x.jpg"/>Police registered a case under the <b>SC/ST</b> (Prevention of Atrocities) Act.</p>]]></description>
+      <pubDate>Fri, 04 Oct 2024 12:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Broadcaster announces new cricket season schedule</title>
+      <link>https://news.example.com/story-2</link>
+      <description>Weather forecasters expect rain.</description>
+      <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>दलित युवक को पीटा, वीडियो वायरल</title>
+      <link>https://news.example.com/story-3</link>
+      <description>पुलिस ने मामला दर्ज किया।</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://news.example.com/no-title</link>
+    </item>
+  </channel>
+</rss>
